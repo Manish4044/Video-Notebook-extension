@@ -1,0 +1,15 @@
+.app{
+    margin:auto;
+    padding:10px 20px;
+}
+
+.app button{
+    border:none;
+    font-size:18px;
+    padding: 8px 20px;
+    cursor:pointer;
+    background-color: #F0F0F0;
+    -webkit-box-shadow: 10px 10px 6px -29px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 6px -29px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 6px -29px rgba(0,0,0,0.75);
+}
